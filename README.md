@@ -9,7 +9,7 @@ This repository contains the source code for my personal portfolio website. It s
 - **Contact Form:** Allows visitors to get in touch with me easily.
 
 ## Tech Stack 🔨
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** React.JS
 - **Framework:** Tailwind for responsive design
 - **Hosting:** GitHub Pages for deployment
 
