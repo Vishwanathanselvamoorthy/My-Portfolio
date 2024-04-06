@@ -21,11 +21,12 @@ const About = () => {
           <div>
             <p className="font-semibold ">
               I'm a computer science degree holder specializing in Front-End
-              Development. Proficient in HTML, CSS, JavaScript, Tailwind and React, I'm
-              dedicated to crafting user-friendly interfaces and delivering
-              exceptional web experiences. Constantly honing my skills and
-              staying updated with the latest design trends, I'm eager to
-              contribute my expertise to the dynamic world of web development.
+              Development. Proficient in HTML, CSS, JavaScript, Tailwind and
+              React, I'm dedicated to crafting user-friendly interfaces and
+              delivering exceptional web experiences. Constantly honing my
+              skills and staying updated with the latest design trends, I'm
+              eager to contribute my expertise to the dynamic world of web
+              development.
             </p>
           </div>
         </div>
