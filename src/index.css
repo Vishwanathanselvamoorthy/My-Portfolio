@@ -15,7 +15,7 @@
 }
 
 .content-div {
-  width: 500px;
+  /* width: 500px; */
   height: 300px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -28,3 +28,21 @@
     hsla(242, 74%, 61%, 0.8)
   ) !important;
 }
+/* @media screen and (min-width: 368px) {
+  .content-div {
+    width: 300px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .content-div {
+    width: 500px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+} */
