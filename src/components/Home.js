@@ -16,7 +16,7 @@ const Home = () => {
         <p className="text-[#8892b0] font-semibold text-lg py-4 max-w-[700px]">
           Hello! I'm Vishwa , and I'm excited to kickstart my journey as a
           Front-End Developer. I love creating websites that look great and are
-          easy to use. I'm familiar with HTML, CSS, JavaScript, and React, and
+          easy to use. I'm familiar with HTML, CSS, JavaScript, Tailwind and React, and
           I'm eager to learn more and build awesome projects!
         </p>
         <div>
