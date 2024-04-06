@@ -37,7 +37,7 @@ const Contact = () => {
           name="email"
         />
         <textarea
-          className="bg-[#ccd6f6] p-8 rounded-lg font-semibold"
+          className="bg-[#ccd6f6] p-4 h-40 rounded-lg font-semibold"
           placeholder="Your Message"
         ></textarea>
         <button className="text-white border-2 hover:bg-pink-600 hover:border-pink-600 py-3 px-3 rounded-lg font-bold my-8 mx-auto flex items-center">

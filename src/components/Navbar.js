@@ -53,17 +53,17 @@ const Navbar = () => {
       </div>
       {nav && (
         <ul className="absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex justify-center items-center flex-col">
-          <li className="py-6 text-4xl">
+          <li className="py-6 text-4xl font-bold">
             <Link onClick={handleClick} to="home" smooth={true} duration={500}>
               Home
             </Link>
           </li>
-          <li className="py-6 text-4xl">
+          <li className="py-6 text-4xl font-bold">
             <Link onClick={handleClick} to="about" smooth={true} duration={500}>
               About
             </Link>
           </li>
-          <li className="py-6 text-4xl">
+          <li className="py-6 text-4xl font-bold">
             <Link
               onClick={handleClick}
               to="skills"
@@ -73,7 +73,7 @@ const Navbar = () => {
               Skills
             </Link>
           </li>
-          <li className="py-6 text-4xl">
+          <li className="py-6 text-4xl font-bold">
             {" "}
             <Link
               onClick={handleClick}
@@ -84,7 +84,7 @@ const Navbar = () => {
               Projects
             </Link>
           </li>
-          <li className="py-6 text-4xl">
+          <li className="py-6 text-4xl font-bold">
             <Link
               onClick={handleClick}
               to="contact"
